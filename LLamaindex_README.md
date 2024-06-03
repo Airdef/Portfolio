@@ -46,7 +46,7 @@ You can  access the notebook directly from GitHub thanks to the embedded Colab l
 
 5. Verify Upload: After the upload completes, you should see the file listed in the Files sidebar under the specified directory (`KW_space`).
 
-
+## Usage
 
 Please follow the instructions within the notebook to:
 - Input your OpenAI API key
